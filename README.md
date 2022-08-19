@@ -1,7 +1,7 @@
 # Diamond Prices 2022
 
 ### Jupyter Notebook
-> In this notebook we vizualize diamond prices based on different factors as well as use this data set to create a machine learning project to predict the price of new diamonds.
+> In this notebook we vizualize a 2022 diamond price data set and use this set to create a machine learning project to predict the price of new diamonds on the market.
 
 ### Data set
 > The data set I used was sourced from Kaggle.
